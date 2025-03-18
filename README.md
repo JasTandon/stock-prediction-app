@@ -143,4 +143,4 @@ This Python application uses machine learning to predict stock prices and provid
 Feel free to fork this repository, submit issues, or pull requests to enhance functionality. Contributions to improve real-time data integration or add ensemble models are especially welcome!
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details (create one if desired).
+This project is licensed under the MIT License - see the LICENSE file for details.
